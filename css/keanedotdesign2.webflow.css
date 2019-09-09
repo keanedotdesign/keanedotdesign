@@ -813,6 +813,7 @@ a {
 
 .previewimg {
   position: relative;
+  width: 100%;
 }
 
 .navplaceholderdiv {
